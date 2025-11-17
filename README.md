@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="[PUT_YOUR_IMAGE_LINK_HERE](https://drive.google.com/file/d/1eNqgJdrfFn_Aau3B_jink9TfEzNCXn2H/view?usp=drive_link)" width="100%">
-</p>
-
 <h2 align="center">
   Hey 👋, <br>
-  <span style="color:#FF5733">I'm Haitham Ismail</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&color=1E90FF&center=true&vCenter=true&width=435&lines=I'm+Haitham+Ismail" alt="Typing SVG"/>
 </h2>
+
 
 <h3 align="center">AI & Machine Learning Engineer | Python, TensorFlow, PyTorch | Passionate about Computer Vision, NLP & MLOps 🚀</h3>
 
